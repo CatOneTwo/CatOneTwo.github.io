@@ -2,7 +2,7 @@
 
 ### Conference Reviewer
 - ACM MM' 24
-- ICRA'24, 25
+- ICRA' 24, 25
 
 ### Journal Reviewer
 - IEEE TMC
