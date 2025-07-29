@@ -5,7 +5,7 @@ main:
     conference: Proceedings of the AAAI Conference on Artificial Intelligence <strong>(AAAI)</strong>, 2025.
     pdf: https://arxiv.org/abs/2412.08344
     code: https://github.com/CatOneTwo/CoDTS
-    image: ./assets/img/teaser_example_2.png
+    image: ./assets/img/framework.pdf
     notes: Oral Presentation
 
   - title: "Collaborative Perception in Autonomous Driving: Methods, Datasets and Challenges"
@@ -14,7 +14,7 @@ main:
     conference: IEEE Intelligent Transportation Systems Magazine <strong>(ITSM)</strong>, 2023.
     pdf: https://arxiv.org/abs/2301.06262
     code: https://github.com/CatOneTwo/Collaborative-Perception-in-Autonomous-Driving
-    image: ./assets/img/teaser_example_2.png
+    image: ./assets/img/fig1.pdf
     # notes: Early Accept
 
   - title: "SSC3OD: Sparsely Supervised Collaborative 3D Object Detection from LiDAR Point Clouds"
@@ -23,11 +23,11 @@ main:
     conference: IEEE International Conference on Systems, Man, and Cybernetics <strong>(SMC)</strong>, 2023.
     pdf: https://arxiv.org/abs/2307.00717
     code: https://github.com/CatOneTwo/CoDTS
-    image: ./assets/img/teaser_example.png
+    image: ./assets/img/figure2.pdf
 
   - title: "Weakly supervised object detection with class prototypical network"
     authors: Huifang Li, Yidong Li, Yuanzhouhan Cao, <strong>Yushan Han</strong>, Yi Jin, Yunchao Wei
     conference_short: TMM
     conference: IEEE Transactions on Multimedia <strong>(TMM)</strong>, 2022.
     pdf: https://ieeexplore.ieee.org/abstract/document/9826802
-    image: ./assets/img/teaser_example.png
+    image: ./assets/img/WSOD.pdf
