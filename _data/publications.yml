@@ -30,6 +30,4 @@ main:
     conference_short: TMM
     conference: IEEE Transactions on Multimedia <strong>(TMM)</strong>, 2022.
     pdf: https://ieeexplore.ieee.org/abstract/document/9826802
-    # code: https://github.com/CatOneTwo/CoDTS
-    # notes: Oral Presentation
     image: ./assets/img/teaser_example.png
