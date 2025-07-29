@@ -1,5 +1,5 @@
 main:
-  - title: “CoDTS: Enhancing Sparsely Supervised Collaborative Perception with a Dual Teacher-Student Framework”
+  - title: "CoDTS: Enhancing Sparsely Supervised Collaborative Perception with a Dual Teacher-Student Framework"
     authors: <strong>Yushan Han</strong>, Hui Zhang, Honglei Zhang, Jing Wang, Yidong Li
     conference_short: AAAI
     conference: Proceedings of the AAAI Conference on Artificial Intelligence <strong>(AAAI)</strong>, 2025.
@@ -8,7 +8,7 @@ main:
     image: ./assets/img/teaser_example_2.png
     notes: Oral Presentation
 
-  - title: “Collaborative Perception in Autonomous Driving: Methods, Datasets and Challenges”
+  - title: "Collaborative Perception in Autonomous Driving: Methods, Datasets and Challenges"
     authors: <strong>Yushan Han</strong>, Hui Zhang, Huifang Li, Yi Jin, Congyan Lang, Yidong Li
     conference_short: ITSM
     conference: IEEE Intelligent Transportation Systems Magazine <strong>(ITSM)</strong>, 2023.
