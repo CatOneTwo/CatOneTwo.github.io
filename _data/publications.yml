@@ -1,22 +1,36 @@
 main:
 
-  - title: Continual Learning for Abdominal Multi-Organ and Tumor Segmentation
-    authors: Yixiao Zhang, Xinyi Li, Huimiao Chen, Alan Yuille, <strong>Yaoyao Liu*</strong>, Zongwei Zhou* (*Corresponding authors)
-    conference_short: MICCAI
-    conference: International Conference on Medical Image Computing and Computer-Assisted Intervention <strong>(MICCAI)</strong>, 2023.
-    pdf: https://arxiv.org/pdf/2306.00988.pdf
-    code: https://github.com/MrGiovanni/ContinualLearning
-    bibtex: https://bib.yliu.me/MICCAI23.txt
+  - title: CoDTS: Enhancing Sparsely Supervised Collaborative Perception with a Dual Teacher-Student Framework
+    authors: <strong>Yushan Han</strong>, Hui Zhang, Honglei Zhang, Jing Wang, Yidong Li
+    conference_short: AAAI
+    conference: Proceedings of the AAAI Conference on Artificial Intelligence <strong>(AAAI)</strong>, 2025.
+    pdf: https://arxiv.org/abs/2412.08344
+    code: https://github.com/CatOneTwo/CoDTS
     image: ./assets/img/teaser_example_2.png
-    notes: Early Accept
-
-  - title: "Mnemonics Training: Multi-Class Incremental Learning without Forgetting"
-    authors: <strong>Yaoyao Liu</strong>, Yuting Su, An-An Liu, Bernt Schiele, Qianru Sun
-    conference_short: CVPR
-    conference: IEEE/CVF Conference on Computer Vision and Pattern Recognition <strong>(CVPR)</strong>, 2020.
-    pdf: https://arxiv.org/pdf/2002.10211.pdf
-    code: https://github.com/yaoyao-liu/class-incremental-learning/tree/main/mnemonics-training
-    page: https://class-il.mpi-inf.mpg.de/mnemonics/
-    bibtex: https://class-il.mpi-inf.mpg.de/mnemonics/
     notes: Oral Presentation
+
+  - title: Collaborative Perception in Autonomous Driving: Methods, Datasets and Challenges
+    authors: <strong>Yushan Han</strong>, Hui Zhang, Huifang Li, Yi Jin, Congyan Lang, Yidong Li
+    conference_short: ITSM
+    conference: IEEE Intelligent Transportation Systems Magazine <strong>(ITSM)</strong>, 2023.
+    pdf: https://arxiv.org/abs/2301.06262
+    code: https://github.com/CatOneTwo/Collaborative-Perception-in-Autonomous-Driving
+    image: ./assets/img/teaser_example_2.png
+    # notes: Early Accept
+
+  - title: "SSC3OD: Sparsely Supervised Collaborative 3D Object Detection from LiDAR Point Clouds"
+    authors: <strong>Yushan Han</strong>, Hui Zhang, Honglei Zhang, Yidong Li
+    conference_short: SMC
+    conference: IEEE International Conference on Systems, Man, and Cybernetics <strong>(SMC)</strong>, 2023.
+    pdf: https://arxiv.org/abs/2307.00717
+    code: https://github.com/CatOneTwo/CoDTS
+    image: ./assets/img/teaser_example.png
+
+  - title: "Weakly supervised object detection with class prototypical network"
+    authors: Huifang Li, Yidong Li, Yuanzhouhan Cao, <strong>Yushan Han</strong>, Yi Jin, Yunchao Wei
+    conference_short: TMM
+    conference: IEEE Transactions on Multimedia <strong>(TMM)</strong>, 2022.
+    pdf: https://ieeexplore.ieee.org/abstract/document/9826802
+    # code: https://github.com/CatOneTwo/CoDTS
+    # notes: Oral Presentation
     image: ./assets/img/teaser_example.png
