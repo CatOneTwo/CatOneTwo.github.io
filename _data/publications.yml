@@ -1,6 +1,6 @@
 main:
   - title: "CoDTS: Enhancing Sparsely Supervised Collaborative Perception with a Dual Teacher-Student Framework"
-    authors: <strong>Yushan Han</strong>, Hui Zhang, Honglei Zhang, Jing Wang, Yidong Li✉
+    authors: <strong>Yushan Han</strong>, Hui Zhang, Honglei Zhang, Jing Wang, Yidong Li
     conference_short: AAAI
     conference: Proceedings of the AAAI Conference on Artificial Intelligence <strong>(AAAI)</strong>, 2025.
     pdf: https://arxiv.org/abs/2412.08344
