@@ -25,7 +25,7 @@ main:
     code: https://github.com/CatOneTwo/CoDTS
     image: ./assets/img/SMC_SSC3OD.png
 
-  - title: "Weakly supervised object detection with class prototypical network"
+  - title: "Weakly Supervised Object Detection with Class Prototypical Network"
     authors: Huifang Li, Yidong Li, Yuanzhouhan Cao, <strong>Yushan Han</strong>, Yi Jin, Yunchao Wei
     conference_short: TMM
     conference: IEEE Transactions on Multimedia <strong>(TMM)</strong>, 2022.
