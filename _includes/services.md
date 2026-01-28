@@ -4,7 +4,7 @@
 - CVPR
 - AAAI
 - ECCV
-- ACM MM
+- MM
 - ICRA
 
 ### Journal Reviewer
