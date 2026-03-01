@@ -1,7 +1,7 @@
 main:
   - title: "CoLC: Communication-Efficient Collaborative Perception with LiDAR Completion"
     authors: <strong>Yushan Han</strong>, Hui Zhang, Qiming Xia, Yi Jin, Yidong Li
-    conference_short: TMC
+    conference_short: CVPR
     conference:  Proceedings of the IEEE/CVF conference on computer vision and pattern recognition <strong>(CVPR)</strong>, 2026.
     pdf: 
     image: ./assets/img/CVPR_CoLC.png
