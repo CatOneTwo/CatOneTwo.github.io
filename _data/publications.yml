@@ -3,7 +3,7 @@ main:
     authors: <strong>Yushan Han</strong>, Hui Zhang, Qiming Xia, Yi Jin, Yidong Li
     conference_short: CVPR
     conference:  Proceedings of the IEEE/CVF conference on computer vision and pattern recognition <strong>(CVPR)</strong>, 2026.
-    pdf: 
+    pdf: https://arxiv.org/abs/2603.00682
     image: ./assets/img/CVPR_CoLC.png
     
   - title: "CoDS: Enhancing Collaborative Perception in Heterogeneous Scenarios via Domain Separation"
