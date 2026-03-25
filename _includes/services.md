@@ -1,6 +1,7 @@
 ## Services
 
 ### Conference Reviewer
+- NeurIPS
 - CVPR
 - AAAI
 - ECCV
