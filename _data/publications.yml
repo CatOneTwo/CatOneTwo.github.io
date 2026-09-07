@@ -4,6 +4,7 @@ main:
     conference_short: CVPR
     conference:  Proceedings of the IEEE/CVF conference on computer vision and pattern recognition <strong>(CVPR)</strong>, 2026.
     pdf: https://arxiv.org/abs/2603.00682
+    code: https://github.com/CatOneTwo/CoLC
     image: ./assets/img/CVPR_CoLC.png
     
   - title: "CoDS: Enhancing Collaborative Perception in Heterogeneous Scenarios via Domain Separation"
